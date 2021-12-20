@@ -1,0 +1,10 @@
+const variable 
+===>
+const ma reassign  garna mildaina just eakpalta assign garako value ma kam hunxa 
+if re assin garna lage ma type error aaux a
+
+
+
+##string interpolation
+cosnt myName= Nabin;
+console.log(`my name is ${myName}`);
